@@ -1,2 +1,2 @@
 # Full_Stack-Library-System
-HTML / CSS / Framwork Django
+HTML / CSS / javaScript / Framwork Django
